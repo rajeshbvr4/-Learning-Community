@@ -1,0 +1,47 @@
+
+.header {
+    position: absolute;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    background-color: cadetblue;
+    
+}
+
+
+
+
+.abcd {
+    width: 100%;
+        height: 100%;
+    left: 0px;
+    right: 0px;
+    top: 0px;
+    bottom: 0px;
+    position: absolute;
+}
+/* CUSTOMIZE THE CAROUSEL
+-------------------------------------------------- */
+.carousel,
+.item,
+.active {
+    height: 100%;
+    margin-bottom: 60px;
+}
+
+.carousel-inner {
+    height: 100%;
+}
+
+/* Background images are set within the HTML using inline CSS, not here */
+
+.fill {
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    background-size: cover;
+    -o-background-size: cover;
+}

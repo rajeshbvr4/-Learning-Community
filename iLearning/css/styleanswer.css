@@ -1,0 +1,12 @@
+input[type=text]:focus {
+    width: 500px;
+}
+
+input[type=textarea] {
+    width: 300px;
+    height: 300px
+}
+
+h1 {
+    color: red;
+}

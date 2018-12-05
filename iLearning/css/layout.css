@@ -1,0 +1,69 @@
+
+.paege-data {
+    width: auto;
+    height: 5px;
+    color: #666;
+}
+
+.comment-wrapper {
+    height: auto;
+    width: auto;
+    margin: 10px;
+    border: 1px solid #e1e1e1;
+}
+
+.comment-title {
+    height: 40px;
+    line-height: 37px;
+    font-size: 14px;
+    margin: 0 5px 0 5px;
+    color: #555;
+    border: 1px solid;
+}
+
+.comment-list {
+    height: auto;
+    font-size: 13px;
+    margin: 0 5px 15x 5px;
+    color: #555;
+    border: 1px solid #e1e1e1;
+}
+
+.comments-holder-ul {
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    width: auto;
+    height: auto;
+    overflow: hidden;
+}
+
+.comment-holder {
+    outline-style: none;
+    background: #fffff5;
+    height: 50px;
+    width: auto;
+    width: auto;
+    margin: 5px 0 5px 0;
+    overflow: hidden;
+}
+.comment-holder:hover {
+    background: #ffffDB;
+}
+
+.comment-body {
+    float: left;
+}
+
+.username-field {
+    height: 25px;
+    line-height: 20px;
+    color: blue;
+    font-size: 12px;
+    margin: 0 0 0 10px;
+}
+
+.comment-text {
+    width: auto;
+    display: block;
+}
